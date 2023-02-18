@@ -1,7 +1,7 @@
 # PoseidonC2
 
 <div align="center">
-  <img width="500px" src="assets/poseidonC2.png" />
+  <img width="750px" src="assets/poseidonC2.png" />
   <h1>PoseidonC2</h1>
   <br/>
 
